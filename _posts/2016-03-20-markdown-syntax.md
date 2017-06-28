@@ -19,5 +19,5 @@ Below is just about everything you'll need to style in the theme. Check the sour
 # Flappy Bird
 
 
-[title]<div markdown="0"><a href="#" class="btn">Click to play</a></div>(https://github.com/sfjorge/Flappy-Bird)
+<div markdown="0"><a href="https://github.com/sfjorge/Flappy-Bird" class="btn">Click to play</a></div>
 
