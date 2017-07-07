@@ -10,9 +10,9 @@ comments: false
 
 ## This Site
 ####Hey! My name is Jorge Santos and I am a software developer. This site will include 
-####posts on the latest updates of SANTOS Code projects along with blog posts of topics
-####of interests. This site also provides means of contacting me for any question and 
-####feel free to do so!
+posts on the latest updates of SANTOS Code projects along with blog posts of topics
+ of interests. This site also provides means of contacting me for any question and 
+feel free to do so!
 
 ## Project Types
 * HTML5
