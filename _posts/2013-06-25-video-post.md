@@ -6,7 +6,7 @@ excerpt: "Know the plan. Small goals. These are mine for example."
 tag:
 - sample
 - post
-- video
+- J&S Plan 
 comments: true
 ---
 
