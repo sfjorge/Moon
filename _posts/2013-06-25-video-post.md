@@ -10,20 +10,20 @@ tag:
 comments: true
 ---
 
-##Junior Year
-*AP Calculus AB
-*AP Physics 1 Algebra-Based
-*AP Physics 2 Algebra_Based
-*AP Language and Composition
-*AP Computer Science Principles
-*Honors US History
-*Study Hall
+## Junior Year
+* AP Calculus AB
+* AP Physics 1 Algebra-Based
+* AP Physics 2 Algebra_Based
+* AP Language and Composition
+* AP Computer Science Principles
+* Honors US History
+* Study Hall
 
-##Senior Year
-*AP Calculus BC
-*AP Physics C
-*AP Chemistry
-*AP Literature and Composition
-*AP Statistics
-*Economics
-*Study Hall
+## Senior Year
+* AP Calculus BC
+* AP Physics C
+* AP Chemistry
+* AP Literature and Composition
+* AP Statistics
+* Economics
+* Study Hall
