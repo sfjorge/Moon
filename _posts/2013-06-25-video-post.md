@@ -4,9 +4,8 @@ title:  "Junior and Senior Year Plan"
 date:   2017-07-07
 excerpt: "Know the plan. Small goals. These are mine for example."
 tag:
-- sample
 - post
-- J&S Plan 
+- blog
 comments: true
 ---
 
