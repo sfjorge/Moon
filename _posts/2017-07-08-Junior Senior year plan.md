@@ -27,4 +27,7 @@ comments: true
 * AP Statistics
 * Economics
 * Study Hall
-##### I recently received my AP scores from the tests I took my Sophmore year and noticed what majors specific AP classes are good for. After looking into the major 'Computer Software Engineering', I noticed that I'm only missing a couple more AP courses to have taken all of the ones that have to do with my major of interest. The classes that I am considering for my senior have been chosen baased off of this consideration.
+##### I recently received my AP scores from the tests I took my Sophmore year and noticed what majors specific AP classes are good for. After looking into the major 'Computer Software Engineering', I noticed that I'm only missing a couple more AP courses to have taken all of the ones that have to do with my major of interest. The classes that I am considering for my senior have been chosen based off of this consideration.
+
+## Summers
+##### I plan for my summers to be dedicated to enhancing my programming skills and also advancing in my studies for the following year. I also plan to study aiming to better my SAT scores to improve my chances for getting into a college of my choice.
