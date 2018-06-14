@@ -1,5 +1,5 @@
 ---
-layout: pEZ Runner App"
+layout: post
 date:   2018-06-14
 excerpt: "What's my workout time?"
 tag:
