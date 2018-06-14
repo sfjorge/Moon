@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "EZ Runner app"
 date:   2018-06-14
 excerpt: "What's my workout time?"
 tag:
